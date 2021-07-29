@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   font-family: arial,sans-serif;
+  background-color:aqua;
   min-width: 900px;
   line-height: 14px;
   font-size: 14px;
